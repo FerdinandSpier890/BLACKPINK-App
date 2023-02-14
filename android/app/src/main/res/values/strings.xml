@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">MyAppBlackpink</string>
+    <string name="title_activity_main">MyAppBlackpink</string>
+    <string name="package_name">mx.blackpink2021</string>
+    <string name="custom_url_scheme">mx.blackpink2021</string>
+</resources>

@@ -1,0 +1,7 @@
+
+ {
+    "appId": "mx.blackpink2021",
+    "appName": "MyAppBlackpink",
+    "webDir": "dist",
+    "bundledWebRuntime": false
+}

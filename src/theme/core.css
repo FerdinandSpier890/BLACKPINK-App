@@ -1,0 +1,22 @@
+ion-toolbar{
+    --background: var(--ion-color-primary);
+    --color: white;    
+}
+
+ion-title{
+    text-align: center;
+    font-family: monospace;
+    letter-spacing: 5px;
+    text-shadow: -1px -1px 1px #000, 1px 1px 1px #000, -1px 1px 1px #000, 1px -1px 1px #000;
+    font-size: 30px;
+}
+
+ion-back-button{
+    --background: black;
+}
+
+ion-thumbnail{
+    min-width: 10rem;    
+    min-height: 10rem;
+    --border-radius: 5px;
+}
