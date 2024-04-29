@@ -15,7 +15,7 @@ import CreateBlackpinkForm from '../components/blackpink/CreateBlackpinkForm.vue
             saveBlackpink(blackpinkData){
                 this.$store.dispatch('addBlackpink', blackpinkData);
                 this.$router.replace('/Blackpink');
-            }
+            } 
         }
     }
 </script>
